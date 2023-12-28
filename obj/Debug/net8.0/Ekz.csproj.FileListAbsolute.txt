@@ -1,0 +1,14 @@
+D:\Kolya\Programming\Ekz\bin\Debug\net8.0\Ekz.exe
+D:\Kolya\Programming\Ekz\bin\Debug\net8.0\Ekz.deps.json
+D:\Kolya\Programming\Ekz\bin\Debug\net8.0\Ekz.runtimeconfig.json
+D:\Kolya\Programming\Ekz\bin\Debug\net8.0\Ekz.dll
+D:\Kolya\Programming\Ekz\bin\Debug\net8.0\Ekz.pdb
+D:\Kolya\Programming\Ekz\obj\Debug\net8.0\Ekz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kolya\Programming\Ekz\obj\Debug\net8.0\Ekz.AssemblyInfoInputs.cache
+D:\Kolya\Programming\Ekz\obj\Debug\net8.0\Ekz.AssemblyInfo.cs
+D:\Kolya\Programming\Ekz\obj\Debug\net8.0\Ekz.csproj.CoreCompileInputs.cache
+D:\Kolya\Programming\Ekz\obj\Debug\net8.0\Ekz.dll
+D:\Kolya\Programming\Ekz\obj\Debug\net8.0\refint\Ekz.dll
+D:\Kolya\Programming\Ekz\obj\Debug\net8.0\Ekz.pdb
+D:\Kolya\Programming\Ekz\obj\Debug\net8.0\Ekz.genruntimeconfig.cache
+D:\Kolya\Programming\Ekz\obj\Debug\net8.0\ref\Ekz.dll
