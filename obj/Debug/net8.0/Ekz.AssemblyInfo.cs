@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ekz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+378e9ca6de04f2f63836babc72f72b8330164241")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ekz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ekz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
